@@ -1,0 +1,77 @@
+html {
+    font-size: 16px;
+}
+body {
+    font-size: 1.6rem;
+    font-family: 'Open Sans', 'Montserrat' , sans-serif;
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+}
+.logo {
+    background-color: black;
+    padding: 1.8em;
+}
+.subtitle {
+    background-image:url('../images/banner.jpg');
+    text-align: center;
+}
+button {
+    font-family:'Montserrat', sans-serif;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color:rgb(255, 94, 0);
+    border: none;
+    padding: 1%;
+    border-radius:3px;
+}
+.subtitle p {
+    color: rgb(20, 20, 20);
+}
+body h1 {
+    color: rgb(55, 186, 238);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.4em;
+    font-weight: bolder;
+}
+body h4 {
+    color: rgb(55, 186, 238);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8em;
+    font-weight: bolder;
+    padding-bottom: 2%;
+}
+body h3 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    font-weight: bolder;
+}
+.
+body p{
+    color: rgb(20, 20, 20);
+}
+.box3 img {
+    border-radius: 50%;
+}
+.box6 {
+    font-style: italic;
+    color: white;
+    background-color: rgb(255, 94, 0);
+    margin:auto;
+}
+.box6 :nth-child(2n){
+    font-style: normal;
+}
+section {
+    margin-top: 10%
+    margin-bottom:10%;
+    bo
+}
+.box7 {
+    background-color: rgb(55, 186, 238);
+}
+footer {
+    background-color: rgb(55, 186, 238);
+}
